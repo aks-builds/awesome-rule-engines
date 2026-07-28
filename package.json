@@ -1,0 +1,16 @@
+{
+  "name": "awesome-rule-engines",
+  "private": true,
+  "description": "A curated list of forward- and backward-chaining rule engines, BRMS platforms, rule languages, and language-specific libraries.",
+  "license": "MIT",
+  "scripts": {
+    "test": "remark --frail --quiet ."
+  },
+  "devDependencies": {
+    "remark-cli": "^12.0.1",
+    "remark-frontmatter": "^5.0.0",
+    "remark-gfm": "^4.0.1",
+    "remark-preset-lint-consistent": "^6.0.0",
+    "remark-preset-lint-recommended": "^7.0.0"
+  }
+}

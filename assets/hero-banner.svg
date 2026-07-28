@@ -1,0 +1,8 @@
+<svg width="900" height="150" viewBox="0 0 900 150" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Awesome Rule Engines">
+  <rect width="900" height="150" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  <circle cx="30" cy="30" r="7" fill="#ff5f56"/>
+  <circle cx="52" cy="30" r="7" fill="#ffbd2e"/>
+  <circle cx="74" cy="30" r="7" fill="#27c93f"/>
+  <text x="30" y="82" font-family="'Courier New', Consolas, monospace" font-size="28" font-weight="bold" fill="#39ff14">AWESOME RULE ENGINES</text>
+  <text x="30" y="115" font-family="'Courier New', Consolas, monospace" font-size="15" fill="#8b949e">$ if condition then vibe</text>
+</svg>
