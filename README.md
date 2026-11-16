@@ -72,6 +72,7 @@ Goal-driven / backward-chaining engines and Prolog-family systems: reasoning sta
 Full BRMS platforms with authoring UIs, decision tables, versioning, and governance on top of a rule engine.
 
 - [Apache KIE Tools](https://github.com/apache/incubator-kie-tools) — Authoring tooling for the Apache KIE business-automation stack, including the DMN and BPMN editors used in KIE Sandbox and Business Central.
+- [DecisionRules](https://www.decisionrules.io) — Commercial decision automation platform with decision tables, decision trees, scripting rules, lookup tables and decision flows, a test bench with regression test suites, a REST API and an MCP server, available as SaaS or self-hosted.
 - [FICO Blaze Advisor](https://www.fico.com/en/products/fico-blaze-advisor) — Commercial business rules management system widely used in financial-services decisioning; included as a long-standing industry-standard BRMS.
 - [GoRules (Zen Engine)](https://github.com/gorules/zen) — Open-source business rules engine written in Rust, with Node.js, Python, and Go bindings, built around a JSON Decision Model (JDM) format and a companion open-source visual editor.
 - [IBM Operational Decision Manager (ODM)](https://www.ibm.com/products/operational-decision-manager) — Commercial BRMS combining a rule engine, decision-table authoring, and event processing; a long-established enterprise decisioning platform.
